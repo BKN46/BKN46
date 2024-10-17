@@ -5,7 +5,7 @@
  <img src="https://img.shields.io/github/stars/BKN46?style=flat-square&color=red">
 </div>
 
-I'm a software test engineer in ![Tencent QQ](https://img.shields.io/badge/Tencent-%2312B7F5?style=for-the-badge&logo=tencentqq&logoColor=white)  
+I'm a software test engineer in [@Tencent](https://github.com/Tencent)  
 Graduate from BUAA
 
 
