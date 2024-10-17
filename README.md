@@ -5,7 +5,7 @@
  <img src="https://img.shields.io/github/stars/BKN46?style=flat-square&color=red">
 </div>
 
-I'm a SDET in [@Tencent](https://github.com/Tencent)  
+SDET in [@Tencent](https://github.com/Tencent)  
 
 ## Language & Tools
 
