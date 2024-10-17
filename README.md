@@ -5,9 +5,7 @@
  <img src="https://img.shields.io/github/stars/BKN46?style=flat-square&color=red">
 </div>
 
-I'm a software test engineer in [@Tencent](https://github.com/Tencent)  
-Graduate from BUAA
-
+I'm a SDET in [@Tencent](https://github.com/Tencent)  
 
 ## Language & Tools
 
